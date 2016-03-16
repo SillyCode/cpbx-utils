@@ -1,0 +1,19 @@
+<module>
+	<rawname>xepm</rawname>
+	<repo>standard</repo>
+	<name>Endpoint Manager</name>
+	<version>1.0.19-1</version>
+	<publisher>Xorcom</publisher>
+	<license>GPLv2+</license>
+	<category>Settings</category>
+	<description></description>
+	<info>http://www.xorcom.com</info>
+	<changelog></changelog>
+	<depends>
+		<module>sipsettings</module>
+		<module>cpbx-branding 1.0.1</module>
+	</depends>
+	<menuitems>
+		<xepm>Endpoint Manager</xepm>
+	</menuitems>
+</module>
